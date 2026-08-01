@@ -7,8 +7,8 @@
 
 <p align="center">
   <em>Inspiring Knowledge, Illuminating Horizons</em><br>
-  <em>علمٌ يُلهم ومعرفة تُنير — نحو آفاق السحاب</em>
-  > 🤝 Developed as part of a team project.
+  <em>علمٌ يُلهم ومعرفة تُنير — نحو آفاق السحاب</em> <br>
+   🤝 Developed as part of a team project.
 </p>
 
 <p align="center">
